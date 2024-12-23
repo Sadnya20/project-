@@ -11,3 +11,5 @@ console.log("Odd Numbers:", findOddNumbers(numbers));
 function findOddNumbers(arr) {
     return arr.filter(num => num % 2 !== 0);
 
+    unction findOddNumbers(arr) {
+        return arr.filter(nu
